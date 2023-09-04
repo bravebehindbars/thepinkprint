@@ -1,0 +1,54 @@
+body{
+	background-image: url("Images/po3.jpg");
+	background-size: cover;
+}
+
+p{
+	color:black;
+	font-family: "Bookman Old Style";
+	background-color: rgba(255, 255, 255,0);
+	font-size: 21px;
+	
+}
+
+h1{
+	color: grey;
+	font-family: "Script MT Bold";
+	background-color: rgba(255, 255, 255,0.5);
+	font-size: 100px;
+	
+} 
+.Centered{
+	text-align: center;
+}
+
+h2{
+	color: grey;
+	font-family: "Script MT Bold";
+	background-color: rgba(255, 255, 255,0.5);
+	font-size: 60px;
+	text-align: center;
+}
+h3{
+	color: grey;
+	font-family: "Script MT Bold";
+	background-color: rgba(255, 255, 255,0.5);
+	font-size: 60px;
+}
+
+h4{
+	color: grey;
+	font-family: "Script MT Bold";
+	background-color: rgba(255, 255, 255,0.5);
+	font-size: 60px;
+}
+
+.Colorbutton {
+	background-color: white;
+	font-style: italic;
+	font-family: "Bookman Old Style"; 
+	margin:5px;
+	padding:10px;
+	font-size: 15px;
+
+}
